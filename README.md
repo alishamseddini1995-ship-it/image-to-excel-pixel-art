@@ -1,3 +1,4 @@
+<img width="1756" height="898" alt="file_excel" src="https://github.com/user-attachments/assets/a8831da4-9cfd-45bd-8c66-d2d35f758adc" />
 # Image → Excel Pixel Art
 
 Turns an image into an Excel spreadsheet made entirely of colored cells —
